@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -16,11 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 Built Qr code, with few changes in HTML5 and CSS3. Body is centered. This project helps you to learn how to postion content on your page.
-
-### Links
-
-- Solution URL: @Mybebe1
-- Live Site URL: (Fivestar live)
 
 ## My process
 
@@ -42,7 +36,7 @@ I continue with next section-proof project. I am focusing on html and css projec
 
 ## Author
 
-- Frontend Mentor - @Mybebe1 (https://www.frontendmentor.io/profile/tektek)
+- Frontend Mentor - @Mybebe1 (https://www.frontendmentor.io/profile/Mybebe1)
 - Twitter - @DavidTheHuios (https://www.twitter.com/DavidTheHuios)
 
 ## Acknowledgments
