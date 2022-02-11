@@ -36,8 +36,8 @@ I continue with next section-proof project. I am focusing on html and css projec
 
 ## Author
 
-- Frontend Mentor - @Mybebe1 (https://www.frontendmentor.io/profile/Mybebe1)
-- Twitter - @DavidTheHuios (https://www.twitter.com/DavidTheHuios)
+- Frontend Mentor - <a href="https://www.frontendmentor.io/profile/Mybebe1" target="_blank">Mybebe1</a>
+- Twitter - <a href="https://www.twitter.com/DavidTheHuios" target="_blank">DavidTheHuios</a>
 
 ## Acknowledgments
 
