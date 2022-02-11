@@ -19,8 +19,8 @@ Built Qr code, with few changes in HTML5 and CSS3. Body is centered. This projec
 
 ### Links
 
-- Solution URL: [URL] (Mybebe1/qr_code)
-- Live Site URL: [URL] (Fivestar live)
+- Solution URL: (Mybebe1/qr_code)
+- Live Site URL: (Fivestar live)
 
 ## My process
 
@@ -42,9 +42,8 @@ I continue with next section-proof project. I am focusing on html and css projec
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@DavidTheHuios](https://www.twitter.com/DavidTheHuios)
-  LinkedIn - [linkedin](David Olamilekan)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/tektek)
+- Twitter - (https://www.twitter.com/DavidTheHuios)
 
 ## Acknowledgments
 
